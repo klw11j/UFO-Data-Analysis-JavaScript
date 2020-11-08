@@ -1,4 +1,4 @@
-# JavaScript Homework - JavaScript and DOM Manipulation
+# UFO Data Analysis - JavaScript and DOM Manipulation
 
 ## Background
 
@@ -52,11 +52,6 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
 * [UFO Sightings Data](StarterCode/static/js/data.js)
 
-- - -
-
-**Good luck!**
-
-- - -
 
 ### Copyright
 
